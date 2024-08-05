@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created to assist in recording notes for the edX coding bootcamp. The notes are catagorized in 4 groups; HTML, CSS, Git, and Javascrip
+This project was created to assist in recording notes for the edX coding bootcamp. The notes are catagorized in 4 groups; HTML, CSS, Git, and Javascript
 
 ## Installation
 
